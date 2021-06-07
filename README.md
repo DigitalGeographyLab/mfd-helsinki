@@ -18,4 +18,4 @@ Claudia Bergroth, Olle Järv, Henrikki Tenkanen, Matti Manninen, Tuuli Toivonen
 
 ## License
 
-MIT.
+Apache 2.0
