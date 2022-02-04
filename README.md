@@ -1,7 +1,8 @@
 # Dynamic population distribution dataset for Helsinki Metropolitan Area  
 
-Source codes for article *"A 24-hour dynamic population distribution dataset based on mobile phone data from Helsinki Metropolitan Area, Finland"*
-that were used to produce the dataset. 
+Source codes that were used to produce the dataset associated with following article: 
+
+- Bergroth, C., Järv, O., Tenkanen, H., Manninen, M., Toivonen, T., 2022. A 24-hour population distribution dataset based on mobile phone data from Helsinki Metropolitan Area, Finland. [Scientific Data 9, 39.](https://www.nature.com/articles/s41597-021-01113-4)  
 
 ## Related dataset 
 
