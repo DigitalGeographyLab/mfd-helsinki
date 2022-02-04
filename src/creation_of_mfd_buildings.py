@@ -2,8 +2,6 @@
 """
 Created on Thu Aug  2 19:25:18 2018
 
-@author: E912000
-
 Applying vertical dimension to AFT-refined NLS buildings - Floor area estimation
 -Data with floor areas and floor amounts is extracted from municipalities
     
@@ -16,7 +14,7 @@ import numpy as np
 #read in building data
 #----------------------------------------------------------------------------
 fp_municipal = r'...\data\PhysicalSurfaceData\OriginalData\Buildings\municipal_buildings.shp'
-fp_nls =r'C:\Users\E912000\Desktop\data\PhysicalSurfaceData\OriginalData\Buildings\nls_buildings_refined_with_osmx_buildings.shp'
+fp_nls =r'... \data\PhysicalSurfaceData\OriginalData\Buildings\nls_buildings_refined_with_osmx_buildings.shp'
 
 bjoin = gpd.read_file(fp_municipal)
 bnls = gpd.read_file(fp_nls)
